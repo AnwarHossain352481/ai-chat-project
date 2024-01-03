@@ -17,7 +17,7 @@ Welcome to our AI Chat Project, an innovative chat application built with Next.j
 ### Installation
 1. **Clone the repository:**
    ```
-   git clone https://github.com/aarif-sha/ai-chat-project.git
+   git clone https://github.com/anwar/ai-chat-project.git
    ```
 
 2. **Navigate to the project directory:**
