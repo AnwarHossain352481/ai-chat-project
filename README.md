@@ -1,5 +1,5 @@
-# Arif Shahariar 
-# ID : 181-35-2479
+# Anwar Hossain
+# ID : 181-35-2481
 
 
 # AI Chat Project with Next.js and Cohere API
@@ -44,7 +44,7 @@ To start the application, run:
 npm run dev
 ```
 ### Running the Application
-Live project : https://ai-chat-project-94zfwpp5z-aarifshahariars-projects.vercel.app/
+Live project : https://ai-chat-project-94zfwpp5z-anwarhossains-projects.vercel.app/
 
 
 # 😊
